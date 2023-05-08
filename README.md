@@ -8,7 +8,7 @@ You are well on your way to becoming a programmer and Excel expert! In this home
 
 ### Stock market analysis
 
-![stock Market](Images/stockmarket.jpg)
+![stock Market](images/stockmarket.jpg)
 
 ## Instructions
 
